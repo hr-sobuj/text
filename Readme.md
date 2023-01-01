@@ -1,9 +1,8 @@
-<center>
-##### Hajee Mohammad Danesh Science and Technology University (HSTU)
-##### Dinajpur-5200, Bangladesh.
-##### Md. Habibur Rahman
-##### Dept of CSE
-<center>
+### Hajee Mohammad Danesh Science and Technology University (HSTU)
+### Dinajpur-5200, Bangladesh.
+### Md. Habibur Rahman
+### Dept of CSE
+
 
 <hr>
 
